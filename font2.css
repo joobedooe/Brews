@@ -12,3 +12,10 @@
     font-style: normal;
 
 }
+@font-face {
+    font-family: 'scratch_handwrittenregular';
+    src: url('scratch_handwritten-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
